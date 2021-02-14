@@ -37,6 +37,4 @@ Please read [CONTRIBUTING.md]() for details on our code of conduct, and the proc
 
 ## Authors
 
-* **Giancarlo Coelho** - *Literally Everything lol* - [CoelhoComputing](https://github.com/EkoFlame)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Giancarlo Coelho** 
