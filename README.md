@@ -19,16 +19,13 @@ Needed to Run:
   Eveything that has to be done:
 
 ```
-1. Write Code
-2. Clean Up Code
-3. Comment Code
+1. everything.
 ```
 
 ## Built With
 
 * Assembly 
 * C++
-* Love
 
 ## Contributing
 
@@ -43,10 +40,3 @@ Please read [CONTRIBUTING.md]() for details on our code of conduct, and the proc
 * **Giancarlo Coelho** - *Literally Everything lol* - [CoelhoComputing](https://github.com/EkoFlame)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## Acknowledgments
-
-* My 1980's computer running MS-DOS for giving me the inspiration
-* Mr. Forhan for always encouraging me 
-* My parents for paying my computers electricity bill
-* The contributing members of the community, I thank you from the bottom of my heart
