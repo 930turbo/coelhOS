@@ -12,6 +12,4 @@ It is worth noting that this is a basic example and a real operating system woul
 
 Furthermore, this project also provided me with the opportunity to work with various system-level programming concepts such as memory management, process scheduling, and device driver development. These concepts are fundamental to operating system development and are essential for building robust and efficient systems.
 
-One of the most challenging aspects of this project was working with assembly language, which is a low-level programming language and requires a good understanding of the underlying hardware architecture. This requires a deep understanding of the instruction set and memory management techniques used in the architecture. However, the challenge of working with assembly language was also one of the most rewarding aspects of this project as it allowed me to develop a deeper understanding of the underlying hardware and how the operating system interacts with it.
-
 In conclusion, this project was a valuable learning experience that has greatly contributed to my understanding of operating systems and system-level programming concepts. I believe that the knowledge and skills I gained from this project will be valuable in my future endeavors in the field of operating systems. I will be also happy to take on similar projects in the future.
